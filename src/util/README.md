@@ -1,0 +1,1 @@
+files with utility functions, classes and constants go here. If you have many utilities that are related to each other, you can make them a library and move them to the lib directory

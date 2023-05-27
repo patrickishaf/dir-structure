@@ -1,0 +1,1 @@
+This will contain all the files related to http and socket connections e.g axiosInstnce.ts, interceptors.ts, httpClient.ts, responseHandler.ts

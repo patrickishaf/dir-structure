@@ -1,0 +1,1 @@
+If you use redux for state management, all your redux files go here - store.ts, and all your different slices
